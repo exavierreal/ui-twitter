@@ -1,3 +1,7 @@
+<p align="center">
+    <img src="twittter.jpg" />
+</p>
+
 # Twitter Clone
 <p align="center">
 
